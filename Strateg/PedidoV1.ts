@@ -16,4 +16,4 @@ class Pedidov1 {
     public calculaFreteExpresso(): number {
         return this.valor * 0.1
     }
-}0
+}
